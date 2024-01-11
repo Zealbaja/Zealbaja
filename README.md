@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zealbaja
 - 👀 I’m interested in SQL Server Database Administration and DBAtools
-- 🌱 I’m currently learning a DBA
+- 🌱 I’m currently SQL server DBA
 - 💞️ I’m looking to collaborate on with the community here 
 - 📫 How to reach me rahel.baja@gmail.com
 - 😄 Pronouns: ...
